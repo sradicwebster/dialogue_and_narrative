@@ -1,4 +1,4 @@
-# Key phrase identification and classification of scientic publications
+# Key phrase identification and classification of scientific publications
 University of Bristol Interactive AI CDT first year module Dialogue and Narrative coursework to implement a solution to SemEval 2017 Task 10 "Extracting Keyphrases and Relations from Scientific Publications". Task description and data available from [CodaLab][coda].
 
 The task involved sequence labelling and I used a Hidden Markov Model tagger using NLTK and a sequence tagger (Bi-LSTM-CRF) using [Flair][flair].
@@ -14,7 +14,7 @@ key_phrase_model.ipynb -- key phrase identification using Flair sequence tagger
 
 key_phrase_optimisation.ipynb -- optimising Flair sequence tagger
 
-kp_type_model.ipynb -- key phrase classificaion using Flair sequence tagger
+kp_type_model.ipynb -- key phrase classification using Flair sequence tagger
 
 
 
